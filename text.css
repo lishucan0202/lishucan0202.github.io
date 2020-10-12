@@ -10,9 +10,9 @@ img{
 }
 p{
   color:orangered;
-  font-size:17px
+  font-size:17px;
 }
 h1{
   border-width:5px;
-  border-style:inset ; 
+  border-style:inset; 
 }
